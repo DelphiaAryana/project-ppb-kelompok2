@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="login">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="register">register</string>
+    <string name="click_to_login">click_to_login</string>
+    <string name="click_to_register">click_to_register</string>
+    <string name="click_to_registerr">click to register</string>
+    <string name="click_to_registerrr">Click to Register</string>
+    <string name="click_to_loginn">Click to Login</string>
+    <string name="logout">Logout</string>
+    <string name="pantai_angsana">Pantai Angsana</string>
+    <string name="gunung_halau_halau">Gunung Halau-Halau</string>
+    <string name="air_terjun_bajuin">Air Terjun Bajuin</string>
+    <string name="pantai_tamiang">Pantai Tamiang</string>
+    <string name="mandi_angin">Mandi Angin</string>
+    <string name="danau_biru">Danau Biru</string>
+    <string name="google_maps_key">AIzaSyBZh7hwKKNsCH6QWy5I0AlDSd-Vv45-CNc</string>
+    Judul
+    Pantai Angsana
+    Gunung Halau-Halau
+    Air Terjun Bajuin
+    <string name="angsana">
+        <p>Pantai Angsana adalah sebuah tempat pariwisata yang terletak di kecamatan Angsana Tanah Bumbu, Kabupaten Tanah Bumbu yang bisa ditempuh dengan waktu kurang lebih 5 jam perjalanan darat dari kota Banjarmasin. Tepatnya berada di belakang lokasi perkebunan kelapa sawit. Saat ini, objek wisata ini sudah dikembangkan oleh pemerintah setempat dan semakin ramai dikunjungi oleh wisatawan lokal. \n</p>
+        <p>Salah satu objek wisata di pantai ini adalah snorkeling, selam skuba, dan memancing dimana bisa melihat keindahan terumbu karang yang terletak tidak jauh dari lepas pantai ini. Untuk mendukung kegiatan pariwisata, pantai ini sudah cukup banyak fasilitas pendukung seperti resort maupun hotel-hotel kecil di sekitar pantai.
+        </p>
+    </string>
+    <string name="halau_halau">
+        <p>
+            Gunung Halau-halau atau sering disebut Gunung Besar merupakan gunung yang dikeramatkan bagi warga suku dayak Meratus. Gunung yang merupakan bagian dari puncak Pegunungan (seven summits) Meratus membelah tiga kabupaten, yaitu Kabupaten Hulu Sungai Tengah, Kabupaten Hulu Sungai Selatan dan Kabupaten Tanah Bumbu.\n
+        </p>
+        <p>
+            Selain Halau-halau, beberapa gunung yang juga cukup populer bagi kalangan pendaki adalah Gunung Hauk di Kabupaten Balangan, Gunung Periuk di Hantakan, Hulu Sungai Tengah serta Gunung Kahung dan Gunung Aur Bunak di Kabupaten Banjar. Meski memiliki ketinggian lebih rendah dibandingkan gunung-gunung di Pulau Jawa, namun track pendakian Pegunungan Meratus ini sangat sulit karena harus melewati belantara hutan hujan tropis,  sungai, lembah dan lereng yang terjal dan curam.
+        </p>
+    </string>
+    <string name="bajuin">
+        <p>
+            Air Terjun Bajuin ini terletak di Desa Sungai Bakar, Kecamatan Pelaihari yang berjarak sekitar 10 km dari Ibu Kota Kabupaten Tanah Laut dan sekitar 75 km dari Banjarmasin. Berjarak sekitar ± 10 km dari Kota Pelaihari (2,5 jam waktu perjalanan) atau sekitar 75 km dari Kota Banjarmasin. Kondisi jalan menuju air terjun ini beraspal (sampai Desa Sei Bakar) dan ada juga jalan setapaknya. Sepanjang jalan tersebut banyak terdapat perbukitan besar mirip gunung. Warnanya yang hijau terlihat cantik berpadu dengan menguningnya persawahan disekitarnya.\n
+        </p>
+        <p>
+            Air terjun Bajuin memiliki panorama pegunungan yang indah, eksotik, dan udaranya pun masih sangat sejuk karena banyaknya pepohonan. Di kawasan ini terdapat tiga air terjun dengan ketinggian yang berbeda, dikarenakan alamnya yang masih asri dan alami. Di sini juga terdapat beberapa jenis burung dan tanaman anggrek hutan, serta bunga bangkai. Di obyek wisata Air Terjun Bajuin ini kalian dapat menikmati keindahan alam dan sejuknya suasana disekitar Air Terjun Bajuin ini. Kalian juga dapat merasakan jernihnya air ini secara langsung, karena tidak ada larangan untuk itu.
+        </p>
+    </string>
+    <string name="tamiang">
+        <p>
+            Pantai Teluk Tamiang adalah salah satu destinasi wisata alam yang berada kurang lebih 120 km dari Kotabaru. Untuk menuju ke lokasi Anda harus menempuh setidaknya empat jam perjalanan menggunakan kendaraan pribadi. Sepanjang perjalanan menuju pantai, Anda akan dimanjakan dengan pemandangan hutan da npantai yang mempesona. Selain itu hawa sejuk akan terasa beberapa kali saat Anda menuju lokasi pantai.\n
+        </p>
+        <p>
+            Jangan kaget jika Anda akan menemukan jalan yang buruk selama perjalanan. Anda hanya akan melewati jalan terjal selama kurang lebih dua jam lamanya. Tak hanya jalan dengan kondisi buruk, Anda juga akan melewati jalan kecil dan setapak untuk sampai di lokasi. Anda akan melewati jalan cor semen, jalan pasir berlubang dengan lebar kurang lebih 4 meter, jalan cor semen dan jalan setapak yang bisa dilewati dengan kendaraan bermotor.\n
+        </p>
+        <p>
+            Namun semua kesulitan selama perjalanan ini akan dibayar dengan keindahan Pantai Teluk Tamiang yang sangat menawan. Pantai yang berhadapan langsung dengan Laut Jawa ini memiliki deburan ombak dan pasir putih mengkilap yang akan menyapa pengunjungn begitu sampai di lokasi. Tak hanya pasir putih yang begitu mempesona, Anda juga akan disambut dengan bukit savana yang luar biasa indah.
+        </p>
+    </string>
+    <string name="tahura">
+        <p>
+            Tahura Sultan Adam berada di dua kabupaten, yaitu Kabupaten Banjar dan Kabupaten Tanah Laut. Kawasan ini merupakan destinasi unggulan di Kalimantan Selatan. Tempat wisata berupa ecowisata ini banyak dikunjungi wisatawan terutama pada akhir pekan yang jumlahnya dapat mencapai ribuan.Tahura Sultan Adam memiliki luas sekitar 112.000 hektar, wilayah yang sudah dapat dijelajahi oleh wisatawan seluas 200 hektar. Kawasan ini juga sudah ditata sedemian rupa untuk menarik wisatawan.\n
+        </p>
+        <p>
+            Tahura Sultan Adam terdiri dari kawasan hutan lindung, suaka marga satwa, hingga area pendidikan. Ecowisata Tahura Sultan Adam memiliki beberapa unit habituasi dan penangkaran satwa endemik Kalimantan yang masuk dalam kategori langka dan terlindungi, seperti, owa, bekantan, beruang madu, dan binturung.
+        </p>
+    </string>
+    <string name="danaubiru">
+        <p>
+            Danau Biru Pengaron adalah danau yang terbentuk dari air hujan yang tertampung di ceruk tambang yang terus menerus terisi.  Uniknya, genangan ini berwarna biru tosca.  Birunya air danau semakin cantik saat pantulan sinar matahari mulai menerangi bumi.  Panorama nan eksotis pun terekam dalam pandangan mata. Keberadaan Danau Biru Pengaron ini menjadi makin menakjubkan karena didukung keindahan alam lainnya berupa tebing-tebing dan bukit yang mengelilingi Danau Biru Pengaron ini.\n
+        </p>
+        <p>
+            Warna airnya yang biru bersih dan menyegarkan mata ini, menghipnotis pengunjung untuk ingin langsung bermain air disana, berenang atau berendam, menikmati dan merasakan kesegaran air danau tersebut.  Dengan adanya kehidupan ikan seluang kecil yang berenang didalam danau ini, dapat dijadikan indikator bahwa air tersebut aman untuk berenang.\n
+        </p>
+        <p>
+            Pengunjung yang datang ke Danau Pengaron ini tidak semata hanya ingin berenang atau bermain air saja, mereka banyak yang datang hanya ingin mengambil spot gambar, untuk berfoto selfi karena latar foto disini memang menjanjikan keindahan yang luar biasa mempesona.
+        </p>
+    </string>
+    <string name="sambergelap">
+        <p>
+            Pulau Samber Gelap adalah salah satu dari 46 tempat wisata yang ada di Pulau Kotabaru, kombinasi antara pantai pasir putih dan laut birunya ini menjadikan Pulau Samber Gelap sebagai tempat penangkaran bagi para penyu. Pulau Samber Gelap berada di Kotabaru, Kalimantan Selatan.\n
+        </p>
+        <p>
+            Pulau Samber Gelap adalah salah satu dari 46 tempat wisata yang ada di Pulau Kotabaru, kombinasi antara pantai pasir putih dan laut birunya ini menjadikan Pulau Samber Gelap sebagai tempat penangkaran bagi para penyu. Pulau Samber Gelap berada di Kotabaru, Kalimantan Selatan.\n
+        </p>
+        <p>
+            Disini juga terdapat mercusuar yang bisa digunakan pengunjung untuk melihat pemandangan dari atas. Karena ditempat ini memiliki tempat penangkaran penyu, jadi Anda yang berkunjung ke tempat ini bisa melihat aktifitas penyu bertelur ketika malam hari. Selain itu, Anda pun dapat melakukan aktifitas snorkeling dan diving untuk melihat keindahan bawah laut Pulau Samber Gelap. Seluruh peralatan menyelam bisa Anda sewa di tempat ini.
+        </p>
+    </string>
+    <string name="matankaladan">
+        <p>
+            Bukit Matang Kaladan terletak di Desa Tiwingan Lama, Kecamatan Aranio, Kabupaten Banjar, Kalimantan Selatan. Bukit Matang Kaladan banyak dikunjungi wisatawan lokal dan mancanegara. Hal tersebut karena keindahan alam di kawasan objek wisata ini. Bahkan keindahan alamnya sudah dapat dinikmati selama perjalanan menuju puncak bukit. Pengunjung juga dapat melihat keindahan waduk Riam Kanan dari ketinggian.\n
+        </p>
+        <p>
+            Bukit Matang Kaladan terletak di Desa Tiwingan Lama, Kecamatan Aranio, Kabupaten Banjar, Kalimantan Selatan. Bukit Matang Kaladan banyak dikunjungi wisatawan lokal dan mancanegara. Hal tersebut karena keindahan alam di kawasan objek wisata ini. Bahkan keindahan alamnya sudah dapat dinikmati selama perjalanan menuju puncak bukit. Pengunjung juga dapat melihat keindahan waduk Riam Kanan dari ketinggian. Masyarakat sekitar menyebut perjalanan menapaki anak tangga sebagai perjalanan cinta seribu anak tangga. Dalam perjalanan pendakian yang membutuhkan waktu sekitar 30 menit, wisatawan akan disajikan pemandangan yang menakjubkan.
+        </p>
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

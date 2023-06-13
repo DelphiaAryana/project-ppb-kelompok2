@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        android:id="@+id/beranda"/>
+
+    <item android:title="Search"
+        android:icon="@drawable/baseline_search_24"
+        android:id="@+id/search"/>
+
+    <item android:title="Etika"
+        android:icon="@drawable/baseline_ac_unit_24"
+        android:id="@+id/etika"/>
+
+    <item android:title="Simaksi"
+        android:icon="@drawable/baseline_menu_book_24"
+        android:id="@+id/simaksi"/>
+
+    <item android:title="Admin"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:id="@+id/admin"/>
+</menu>

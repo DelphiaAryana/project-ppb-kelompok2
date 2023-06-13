@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Simaksi">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="270dp"
+            android:src="@drawable/simaksi"/>
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:text="Tata Cara Permohonan SIMAKSI Jenis kegiatan masuk Kawasan Suaka Alam (KSA), Kawasan Pelestarian Alam (KPA) dan Taman Buru (TB) meliputi:"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="1. Pengunjung Umum"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="2. Rekreasi alam bebas"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="3. Penelitian"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="4. Kegiatan sosial (hanya untuk masyarakat lokal atau sekitar kawasan atau Pemegang Izin Usaha penyediaan Jasa Wisata Alam)"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="5. Kegiatan religi (hanya untuk masyarakat lokal yang melakukan kegiatan religi)"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="6. Ilmu pengetahuan, pendidikan dan ekspedisi"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="7. Pembuatan film"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="8. Jurnalistik"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:text="Untuk melakukan jenis kegiatan nomor 3 mengajukan permohonan Surat jin Masuk Kawasan Konservasi (SIMAKSI) kepada Unit Pelaksana Teknis (UPT) pengelola kawasan. SIMAKSI yang mempunyai keterkaitan kerja untuk lebih dari 1 (satu) lokasi UPT, diterbitkan oleh Sekretaris Direktorat Jenderal Konservasi Sumber Daya Alam dan Ekosistem (KSDAE). SIMAKSI untuk 1 (satu) lokasi UPT, diterbitkan oleh Kepala Unit Pelaksana Teknis."
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:text="Permohonan SIMAKSI diajukan oleh pemohon kepada penerbit Izin, dilampiri dengan: "
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:text="PENELITIAN"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:text="a) Peneliti Mancanegara/ Mahasiswa Perguruan Tinggi Mancanegara"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="1. Surat keterangan jalan dari Kepolisian"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="2. Proposal kegiatan"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="3. Fotokopi paspor"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="4. Surat pernyataan tentang kesanggupan untuk mematuhi ketentuan perundang-undangan"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="5. Surat Izin Penelitian dari Kementerian Negara Riset dan Teknologi"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="6. Surat Pemberitahuan Penelitian dari Kementerian Dalam Negeri"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="7. Surat rekomendasi dari mitra kerja atau dari Perguruan Tinggi induk"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:text="b) Peneliti Nusantara/ Mahasiswa Perguruan Tinggi Indonesia (Indonesian Researcher)"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="1. Proposal kegiatan"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="2. Fotokopi tanda pengenal"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="3. Surat pernyataan tentang kesanggupan untuk mematuhi ketentuan perundang-undangan"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="40dp"
+            android:text="4. Surat Rekomendasi dari mitra kerja atau dari Perguruan Tinggi induk"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:text="KEGIATAN SOSIAL"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:text="Hanya untuk masyarakat lokal atau sekitar kawasan atau Pemegang Izin Usaha penyediaan Jasa Wisata Alam yang melakukan kegiatan sosial, meliputi: Penanaman pohon, Pengamanan hutan bersama masyarakat, Pengendalian kebakaran hutan bersama masyarakat, Evakuasi korban, Kegiatan masyarakat untuk memenuhi kegiatan sehari-hari"
+            android:textColor="@color/black"
+            android:textSize="15dp"/>
+    </LinearLayout>
+
+</ScrollView>

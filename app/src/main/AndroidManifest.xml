@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Material3.Light"
+        tools:targetApi="31">
+        <activity
+            android:name=".DenahWisataKuliner"
+            android:exported="false" />
+        <activity
+            android:name=".DenahWisataReligi"
+            android:exported="false" />
+        <activity
+            android:name=".DenahWisataEdukasi"
+            android:exported="false" />
+        <activity
+            android:name=".DenahWisataAlam"
+            android:exported="false" />
+        <activity
+            android:name=".Denah"
+            android:exported="false" />
+        <activity
+            android:name=".WisataEdukasiAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".WisataKulinerAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".WisataReligiAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".WisataAlamAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".Admin"
+            android:exported="false" />
+        <activity
+            android:name=".Simaksi"
+            android:exported="false" />
+        <activity
+            android:name=".Etika"
+            android:exported="false" />
+        <activity
+            android:name=".Menu"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".inputFormWE"
+            android:exported="false" />
+        <activity
+            android:name=".ListWisataEdukasi"
+            android:exported="false" />
+        <activity
+            android:name=".DeskripsiWisataEdukasi"
+            android:exported="false" />
+        <activity
+            android:name=".inputFormWK"
+            android:exported="false" />
+        <activity
+            android:name=".DeskripsiWisataKuliner"
+            android:exported="false" />
+        <activity
+            android:name=".ListWisataKuliner"
+            android:exported="false" />
+        <activity
+            android:name=".DeskripsiWisataReligi"
+            android:exported="false" />
+        <activity
+            android:name=".ListWisataReligi"
+            android:exported="false" />
+        <activity
+            android:name=".inputFormWR"
+            android:exported="false" />
+        <activity
+            android:name=".DeskripsiWisataAlam"
+            android:exported="false" />
+        <activity
+            android:name=".inputForm"
+            android:exported="false" />
+        <activity
+            android:name=".ListWisataAlam"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name=".Login"
+            android:exported="false"
+            android:theme="@style/Theme.Material3.Light.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+    </application>
+
+</manifest>

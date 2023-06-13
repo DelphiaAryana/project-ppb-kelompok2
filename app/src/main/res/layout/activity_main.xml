@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="190dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/pantaiangsana"/>
+
+    <Button
+        android:id="@+id/btn_wisataalam"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="30dp"
+        android:text="Wisata Alam"
+        android:backgroundTint="@color/black"/>
+
+    <ImageView
+        android:layout_width="190dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="210dp"
+        android:src="@drawable/mesjid"/>
+
+    <Button
+        android:id="@+id/btn_wisatareligi"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="260dp"
+        android:layout_marginLeft="230dp"
+        android:text="Wisata Religi"
+        android:backgroundTint="@color/black"/>
+
+    <ImageView
+        android:layout_width="190dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="370dp"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/pasarterapung"/>
+
+    <Button
+        android:id="@+id/btn_wisatakuliner"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="530dp"
+        android:layout_marginLeft="30dp"
+        android:text="Wisata Kuliner"
+        android:backgroundTint="@color/black"/>
+
+    <ImageView
+        android:layout_width="190dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="370dp"
+        android:layout_marginLeft="210dp"
+        android:src="@drawable/museumwasaka"/>
+
+    <Button
+        android:id="@+id/btn_wisataedukasi"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="530dp"
+        android:layout_marginLeft="230dp"
+        android:text="Wisata Edukasi"
+        android:backgroundTint="@color/black"/>
+
+</RelativeLayout>
